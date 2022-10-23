@@ -1197,4 +1197,4 @@ COB("Blatant", {
 					wait(0.000000000000001)
 					lplr.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Swimming)
 					wait(0.000000000000001)
-					lplr
+					lplr... (7 KB left)
